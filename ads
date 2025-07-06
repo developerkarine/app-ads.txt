@@ -1,1 +1,2 @@
-https://developerkarine.github.io/app-ads.txt
+google.com, pub-2330023528482682, DIRECT, f08c47fec0942fa0
+
